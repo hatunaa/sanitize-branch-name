@@ -10,6 +10,8 @@ Sanitizing the branch name of forward slashes helps ensure any subsequent action
 
 Takes no input, and provides two outputs. The actual branch name, and the sanitized version.
 
+tunadv1
+
 ## Usage
 
 ```yml
